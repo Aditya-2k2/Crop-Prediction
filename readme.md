@@ -121,7 +121,7 @@ crop-prediction-app/
 │   ├── styles.css          # CSS for styling
 │   └── scripts.js          # JavaScript for responsiveness
 ├── requirements.txt        # Python dependencies
-└── README.md               # Project documentation
+└── README.md               # Project documentations
 ```
 
 ## Future Enhancements
